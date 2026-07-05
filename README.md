@@ -33,3 +33,6 @@ The CNN-multi-channel configuration achieved the highest performance with an acc
 
 ## Note
 The SNIPS dataset files are not included in this repository. Please ensure you place the data in the appropriate directories or update the paths in the configuration file accordingly.
+
+The core architecture of this project is based on course materials provided by the university. 
+I have implemented the data preprocessing pipeline, conducted hyperparameter tuning, and developed the training log monitoring system.
