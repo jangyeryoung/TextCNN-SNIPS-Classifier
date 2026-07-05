@@ -24,10 +24,10 @@ The model's performance was evaluated based on the validation accuracy of the SN
 
 Several variants of the TextCNN architecture were tested to determine the most effective configuration, with the following outcomes:
 
-CNN-rand: 98.71%
-CNN-static: 99.14%
-CNN-non-static: 99.00%
-CNN-multi-channel: 99.57%
+- CNN-rand: 98.71%
+- CNN-static: 99.14%
+- CNN-non-static: 99.00%
+- CNN-multi-channel: 99.57%
 
 The CNN-multi-channel configuration achieved the highest performance with an accuracy of 99.57%. This indicates that leveraging multiple channels—typically by combining static and non-static word embeddings—effectively captures rich, multi-faceted semantic features, leading to superior classification results in this intent detection task.
 
