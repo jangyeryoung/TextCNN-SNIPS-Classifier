@@ -1,0 +1,10 @@
+# Python 관련
+__pycache__/
+*.py[cod]
+
+# 체크포인트 및 데이터
+*.pth
+*.pt
+runs/
+data/
+*.bin
